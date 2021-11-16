@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+#### In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
+#### The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
-You can use the [editor on GitHub](https://github.com/tamasree/Interactive-Web-Visualization/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 1.Use the D3 library to read in samples.json.
+#### 2.Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
+#### 3.Create a bubble chart that displays each sample.
+#### 4.Display the sample metadata, i.e., an individual's demographic information.
+#### 5.Display each key-value pair from the metadata JSON object somewhere on the page.
+#### 6.Update all of the plots any time that a new sample is selected.
 
-### Markdown
+### * Advanced Challenge Assignment (Optional)
+#### Adapt the Gauge Chart from https://plot.ly/javascript/gauge-charts/ to plot the weekly washing frequency of the individual.
+![homework page](Images/Interactive-Web-Visualization_.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tamasree/Interactive-Web-Visualization/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
